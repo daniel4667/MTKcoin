@@ -1,0 +1,9 @@
+Building MTKCoin
+
+See doc/readme-qt.rst for instructions on building MTKCoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MTKCoin.
+
+See doc/build-*.txt for instructions on building MTKCoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of MTKCoin.

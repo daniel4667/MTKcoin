@@ -1,2 +1,3 @@
-MTKcoin
-=======
+MTKCoin (MTK)
+
+Blah, blah, blah.
